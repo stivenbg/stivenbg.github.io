@@ -14,7 +14,7 @@ I am a bantu from Congo, from a small town called Mabafi. I moved to France for 
 My two main skills are communication and problem solving.
 
 The technics I master best belong to the  set :
-{Deep learning, model order reduction(linear,non linear), data assimilation(sequential, variational), generative modeling and inverse problems for partial differentials equations}
+{Deep learning, model order reduction(linear, non linear), data assimilation(sequential, variational), generative modeling and inverse problems for partial differentials equations}
 
 
 
