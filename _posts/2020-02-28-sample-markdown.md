@@ -9,8 +9,28 @@ mathjax: true
 author: Bill Smith
 ---
 
-{: .box-success}
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/tables/etc.<br/>I also encourage you to look at the [code that created this post](https://raw.githubusercontent.com/daattali/beautiful-jekyll/master/_posts/2020-02-28-sample-markdown.md) to learn some more advanced tips about using markdown in Beautiful Jekyll.
+
+
+### Hybrid Physics-AI for efficient bias-aware state estimation : **Workshop @ The Institute for Artificial Intelligence and Fundamental Interactions (IAIFI)**  MIT, Boston, USA 2024
+
+### Hybrid Physics-AI for efficient bias-aware state estimation : **Workshop @SINFRA  NUS - A*STAR**, Singapore 2024
+
+
+### Coupling variational data assimilation and operator learning for effective state estimation on complex systems : 
+**16th WCCM World Congress on Computational Mechanics and 4th Pan American Congress on Computational Mechanics**  Vancouver, Canada 2024
+
+
+
+### Hybrid twins coupling PBDW and machine learning for effective state estimation on complex systems : 
+**2nd IACM MMLDE-CSET, Mechanistic, Machine Learning and Digital Engineering for Computational Science Engineering  Technology**, El paso, Texas, USA 2023
+
+
+
+
+
+
+
+
 
 **Here is some bold text**
 
