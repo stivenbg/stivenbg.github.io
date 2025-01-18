@@ -22,7 +22,7 @@ The technics i master best belong to the  set :
 **About research**
 
 In my current research i propose hybrid algorithms that optimally combine machine learning with classical mathematical approach.
-Those algorithm are applied to real-life problem for real-time decision making.
+Those algorithms are applied to real-life problem for real-time decision making.
 
 
 **Not about research**
