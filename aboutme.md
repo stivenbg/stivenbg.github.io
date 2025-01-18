@@ -13,7 +13,7 @@ I am a bantu from Congo, from a small town called Mabafi. I moved to France for 
 
 My two main skills are communication and problem solving.
 
-The technics i master best belong to the  set :
+The technics I master best belong to the  set :
 {Deep learning, model order reduction(linear,non linear), data assimilation(sequential, variational), generative modeling and inverse problems for partial differentials equations}
 
 
@@ -21,13 +21,13 @@ The technics i master best belong to the  set :
 
 **About research**
 
-In my current research i propose hybrid algorithms that optimally combine machine learning with classical mathematical approach.
+In my current research I propose hybrid algorithms that optimally combine machine learning with classical mathematical approach.
 Those algorithms are applied to real-life problem for real-time decision making.
 
 
 **Not about research**
 
-I see beauty everywhere specially in words. My favorite exercice is doing poetry. 
+I see beauty everywhere specially in words. My favorite exercice is  poetry. 
 I see beauty in dancing, which i consider being an extended form of poetry.
 I see beauty in culture. Which is why I love traveling accross countries.
 
