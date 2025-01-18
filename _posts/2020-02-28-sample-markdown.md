@@ -11,9 +11,11 @@ author: Bill Smith
 
 
 
-### Hybrid Physics-AI for efficient bias-aware state estimation : **Workshop @ The Institute for Artificial Intelligence and Fundamental Interactions (IAIFI)**  MIT, Boston, USA 2024
+### Hybrid Physics-AI for efficient bias-aware state estimation : 
+**Workshop @ The Institute for Artificial Intelligence and Fundamental Interactions (IAIFI)**  MIT, Boston, USA 2024
 
-### Hybrid Physics-AI for efficient bias-aware state estimation : **Workshop @SINFRA  NUS - A*STAR**, Singapore 2024
+### Hybrid Physics-AI for efficient bias-aware state estimation : 
+**Workshop @SINFRA  NUS - A*STAR**, Singapore 2024
 
 
 ### Coupling variational data assimilation and operator learning for effective state estimation on complex systems : 
