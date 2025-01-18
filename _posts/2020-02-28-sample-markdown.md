@@ -12,7 +12,9 @@ author: Stiven MASSALA
 Contributed Talks Session B - Representation/Manifold Learning
 **IAIFI Workshop**  The Institute for Artificial Intelligence and Fundamental Interactions   
 MIT, Boston, USA 2024
-[More details](https://iaifi.org/past-workshops.html#2024-summer-workshop) 
+[Workshop detaisl](https://iaifi.org/past-workshops.html#2024-summer-workshop) 
+[My Presentation](https://stivenbg.github.io/assets/IAIFI_workshop_stiven_pres.pdf) 
+
 
 
 
