@@ -7,7 +7,7 @@ subtitle: Machine Learning And Simulation of Partial Differential Equations
 
 **About education**
 
-I am a bantu from Congo, from a small town called Mabafi. I moved to France for my undergrad and grad studies at [Arts & Metiers](https://artsetmetiers.fr/en), then at [Centralesupelec](https://www.centralesupelec.fr/en) where I majored in Applied mathematics. Currently completing the last year of a  PHD jointly done between [Ecole Normale Superieure Paris-Saclay](https://ens-paris-saclay.fr/en) and [NTU Singapore](https://www.ntu.edu.sg). 
+I am a bantu from Congo, from a small town called Mabafi. I moved to France for my undergrad and grad studies at [Arts & Metiers](https://artsetmetiers.fr/en), then at [Centralesupelec](https://www.centralesupelec.fr/en) where I majored in Applied mathematics. Currently completing the last year of a  PhD jointly done between [Ecole Normale Superieure Paris-Saclay](https://ens-paris-saclay.fr/en) and [NTU Singapore](https://www.ntu.edu.sg). 
 
 **About Skills**
 
