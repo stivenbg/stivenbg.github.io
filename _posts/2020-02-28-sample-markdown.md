@@ -17,6 +17,7 @@ author: Bill Smith
 
 ### Coupling variational data assimilation and operator learning for effective state estimation on complex systems 
 **16th WCCM** World Congress on Computational Mechanics and 4th Pan American Congress on Computational Mechanics,  Vancouver, Canada 2024
+[More details](https://www.wccm2024.org) 
 
 
 ### Hybrid twins coupling PBDW and machine learning for effective state estimation on complex systems
