@@ -1,16 +1,17 @@
 ---
 layout: post
-title: Communications in Conferences and Workshops
+title: Oral Communications in Conferences and Workshops
 comments: true
 mathjax: true
-author: Bill Smith
+author: Stiven MASSALA
 ---
 
 
 
 ### Hybrid Physics-AI for efficient bias-aware state estimation 
 Contributed Talks Session B - Representation/Manifold Learning
-**IAIFI Workshop**  The Institute for Artificial Intelligence and Fundamental Interactions   MIT, Boston, USA 2024
+**IAIFI Workshop**  The Institute for Artificial Intelligence and Fundamental Interactions   
+MIT, Boston, USA 2024
 [More details](https://iaifi.org/past-workshops.html#2024-summer-workshop) 
 
 
@@ -22,13 +23,17 @@ Contributed Talks Session B - Representation/Manifold Learning
 
 
 
+
 ### Coupling variational data assimilation and operator learning for effective state estimation on complex systems 
-**16th WCCM** World Congress on Computational Mechanics and 4th Pan American Congress on Computational Mechanics,  Vancouver, Canada 2024
+**16th WCCM** World Congress on Computational Mechanics and 4th Pan American Congress on Computational Mechanics  
+Vancouver, Canada 2024
 [More details](https://www.wccm2024.org) 
 
 
+
 ### Hybrid twins coupling PBDW and machine learning for effective state estimation on complex systems
-**2nd IACM MMLDE-CSET**, Mechanistic, Machine Learning and Digital Engineering for Computational Science Engineering  Technology, El paso, Texas, USA 2023
+**2nd IACM MMLDE-CSET**, Mechanistic, Machine Learning and Digital Engineering for Computational Science Engineering  Technology
+El paso, Texas, USA 2023
 [More details](https://www.utep.edu/engineering/mmlde/)
 
 
