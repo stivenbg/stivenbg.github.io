@@ -18,7 +18,7 @@ Contributed Talks Session B - Representation/Manifold Learning
 
 ### Hybrid Physics-AI for efficient bias-aware state estimation
 **SINFRA Workshop**  NUS + A*STAR, Singapore, 2024
-[More details](https://www.wccm2024.org](https://ipal.cnrs.fr/sinfra-2024/) 
+[More details](https://ipal.cnrs.fr/sinfra-2024/) 
 
 
 
