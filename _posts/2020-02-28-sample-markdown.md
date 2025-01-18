@@ -20,7 +20,7 @@ MIT, Boston, USA 2024
 
 ### Hybrid Physics-AI for efficient bias-aware state estimation
 **SINFRA Workshop**  NUS + A*STAR, Singapore, 2024
-[More details](https://ipal.cnrs.fr/sinfra-2024/) [My Poster](https://stivenbg.github.io/assets/Stiven_WP8_SinFra.pdf) 
+[Workshop details](https://ipal.cnrs.fr/sinfra-2024/) [My Poster](https://stivenbg.github.io/assets/Stiven_WP8_SinFra.pdf) 
 
 
 
@@ -28,14 +28,14 @@ MIT, Boston, USA 2024
 ### Coupling variational data assimilation and operator learning for effective state estimation on complex systems 
 **16th WCCM** World Congress on Computational Mechanics and 4th Pan American Congress on Computational Mechanics  
 Vancouver, Canada 2024
-[More details](https://www.wccm2024.org) [My abstract](https://stivenbg.github.io/assets/abstract_wccm-3.pdf) 
+[Conference details](https://www.wccm2024.org) [My abstract](https://stivenbg.github.io/assets/abstract_wccm-3.pdf) 
 
 
 
 ### Hybrid twins coupling PBDW and machine learning for effective state estimation on complex systems
 **2nd IACM MMLDE-CSET**, Mechanistic, Machine Learning and Digital Engineering for Computational Science Engineering  Technology
 El paso, Texas, USA 2023
-[More details](https://www.utep.edu/engineering/mmlde/)
+[Conference details](https://www.utep.edu/engineering/mmlde/)
 
 
 
