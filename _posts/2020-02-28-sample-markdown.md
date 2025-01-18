@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Communications in Conferences and Workshop
+title: Communications in Conferences and Workshops
 comments: true
 mathjax: true
 author: Bill Smith
@@ -9,15 +9,14 @@ author: Bill Smith
 
 
 ### Hybrid Physics-AI for efficient bias-aware state estimation 
-** IAIFI Workshop **  The Institute for Artificial Intelligence and Fundamental Interactions   MIT, Boston, USA 2024
+**IAIFI Workshop**  The Institute for Artificial Intelligence and Fundamental Interactions   MIT, Boston, USA 2024
 
 ### Hybrid Physics-AI for efficient bias-aware state estimation
-**SINFRA Workshop**  NUS - A*STAR, Singapore, 2024
+**SINFRA Workshop**  NUS + A*STAR, Singapore, 2024
 
 
 ### Coupling variational data assimilation and operator learning for effective state estimation on complex systems 
 **16th WCCM** World Congress on Computational Mechanics and 4th Pan American Congress on Computational Mechanics,  Vancouver, Canada 2024
-
 
 
 ### Hybrid twins coupling PBDW and machine learning for effective state estimation on complex systems
