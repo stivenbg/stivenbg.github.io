@@ -1,12 +1,15 @@
 ---
 layout: page
 title: PhD Candidate in Machine Learning And Simulation of Partial Differential Equations
-subtitle: Ecole Normale Superieure Paris-Saclay and NTU Singapore
+subtitle: [Ecole Normale Superieure Paris-Saclay](https://ens-paris-saclay.fr/en) and [NTU Singapore](https://www.ntu.edu.sg)
 ---
 
 ** About education **
 
 I am a bantu from Congo, from a small town called Mabafi in the center of Africa. I moved to France for my undergrad and grad studies at [Arts & Metiers](https://artsetmetiers.fr/en) and  [Centralesupelec](https://www.centralesupelec.fr/en) where I majored in Applied mathematics specially simulation of Partial differentials equations. Currently completing the last year of a  PHD jointly done between Paris and Singapore.
+
+
+
 
 ** About research **
 In my current research i propose hybrid algorithms that optimally combine machine learning with classical mathematical approach.
