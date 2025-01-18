@@ -27,7 +27,7 @@ Those algorithms are applied to real-life problem for real-time decision making.
 
 **Not about research**
 
-I see beauty everywhere specially in words. My favorite exercice is writing poetry. 
+I see beauty everywhere specially in words. My favorite exercice is doing poetry. 
 I see beauty in dancing, which i consider being an extended form of poetry.
 
 I see beauty in culture. Which is why I love traveling countries. 
