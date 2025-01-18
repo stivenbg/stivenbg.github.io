@@ -1,8 +1,6 @@
 ---
 layout: post
 title: Oral Communications in Conferences and Workshops
-comments: true
-mathjax: true
 author: Stiven MASSALA
 ---
 
