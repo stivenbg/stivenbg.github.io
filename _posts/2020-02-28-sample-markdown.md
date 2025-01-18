@@ -9,10 +9,17 @@ author: Bill Smith
 
 
 ### Hybrid Physics-AI for efficient bias-aware state estimation 
+Contributed Talks Session B - Representation/Manifold Learning
 **IAIFI Workshop**  The Institute for Artificial Intelligence and Fundamental Interactions   MIT, Boston, USA 2024
+[More details](https://iaifi.org/past-workshops.html#2024-summer-workshop) 
+
+
+
 
 ### Hybrid Physics-AI for efficient bias-aware state estimation
 **SINFRA Workshop**  NUS + A*STAR, Singapore, 2024
+[More details](https://www.wccm2024.org](https://ipal.cnrs.fr/sinfra-2024/) 
+
 
 
 ### Coupling variational data assimilation and operator learning for effective state estimation on complex systems 
@@ -22,6 +29,8 @@ author: Bill Smith
 
 ### Hybrid twins coupling PBDW and machine learning for effective state estimation on complex systems
 **2nd IACM MMLDE-CSET**, Mechanistic, Machine Learning and Digital Engineering for Computational Science Engineering  Technology, El paso, Texas, USA 2023
+[More details](https://www.utep.edu/engineering/mmlde/)
+
 
 
 
