@@ -31,7 +31,7 @@ I see beauty everywhere specially in words. My favorite exercice is doing poetry
 I see beauty in dancing, which i consider being an extended form of poetry.
 I see beauty in culture. Which is why I love traveling accross countries.
 
-I believe life is short, so i always curious to learn people's approach to life.
+I believe life is short, so I am always curious to learn people's approach to life.
 
 
 
