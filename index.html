@@ -1,0 +1,219 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="description" content="Stiven Briand Massala, researcher in machine learning, reduced order modeling and data assimilation for partial differential equations.">
+<title>Stiven Briand Massala</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Spectral:ital,wght@0,500;0,600;1,400&family=Public+Sans:wght@400;600&family=JetBrains+Mono:wght@400&display=swap">
+<style>
+/* Layout: one left-aligned reading column, text-only hero, sections stacked */
+:root{
+  --bg:#f7f8fa; --surface:#eceff4; --ink:#17202c; --muted:#5a6575; --line:#d5dbe4;
+  --accent:#1f4fa3; --sensor:#c2641a;
+  --f-display:"Spectral",Georgia,serif; --f-body:"Public Sans",system-ui,sans-serif; --f-mono:"JetBrains Mono",ui-monospace,monospace;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){--bg:#11161e;--surface:#1a212c;--ink:#e4e8ef;--muted:#9aa5b5;--line:#2a3340;--accent:#7ea6ec;--sensor:#e8955a;color-scheme:dark}}
+:root[data-theme="dark"]{--bg:#11161e;--surface:#1a212c;--ink:#e4e8ef;--muted:#9aa5b5;--line:#2a3340;--accent:#7ea6ec;--sensor:#e8955a;color-scheme:dark}
+body{background:var(--bg);color:var(--ink);font:16px/1.6 var(--f-body)}
+.wrap{max-width:62rem;margin:0 auto;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));padding-block:0 3rem}
+a{color:var(--accent);text-underline-offset:3px}
+a:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.top{position:sticky;top:env(safe-area-inset-top,0px);background:var(--bg);display:flex;flex-wrap:wrap;gap:.5rem 1.5rem;justify-content:space-between;align-items:baseline;padding-block:1rem;border-bottom:1px solid var(--line);z-index:2}
+.mark{font-family:var(--f-display);font-weight:600;font-size:1.15rem;color:var(--ink);text-decoration:none}
+nav{display:flex;flex-wrap:wrap;gap:1.25rem}
+nav a{color:var(--muted);text-decoration:none;font-size:.95rem}
+nav a:hover{color:var(--accent)}
+section{padding-block:3rem 0;scroll-margin-top:4.5rem}
+h1,h2,h3{font-family:var(--f-display);text-wrap:balance;line-height:1.2;margin:0}
+h1{font-size:clamp(2.4rem,6vw,3.6rem);font-weight:600;letter-spacing:-.01em}
+h2{font-size:1.75rem;font-weight:600;margin-bottom:1.25rem}
+h3{font-size:1.2rem;font-weight:600}
+p{margin:0}
+.hero{display:block}
+.hero-text{display:flex;flex-direction:column;gap:1rem;min-width:0}
+.eyebrow{font-family:var(--f-mono);font-size:.68rem;letter-spacing:.02em;text-transform:uppercase;color:var(--muted)}
+.lede{font-family:var(--f-display);font-style:italic;font-size:1.3rem;line-height:1.45;max-width:36ch}
+.bio{max-width:65ch}
+.links{list-style:none;padding:0;margin:.25rem 0 0;display:flex;flex-wrap:wrap;gap:.5rem 1.25rem;font-weight:600;font-size:.95rem}
+.intro{max-width:65ch}
+.empty{margin-top:1rem;padding:1rem 1.25rem;border:1px dashed var(--line);border-radius:4px;color:var(--muted);font-size:.92rem;max-width:65ch}
+.themes{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:1.5rem}
+.themes article{display:flex;flex-direction:column;gap:.6rem;border-top:2px solid var(--accent);padding-top:1rem}
+.themes article p{font-size:.95rem}
+.case{font-family:var(--f-mono);font-size:.78rem;color:var(--muted);margin-top:auto}
+.pgroup{font-family:var(--f-mono);font-size:.85rem;font-weight:400;color:var(--muted);margin:2rem 0 .5rem}
+#publications h2+.pgroup{margin-top:0}
+.pubs{list-style:none;padding:0;margin:0;display:flex;flex-direction:column}
+.pubs li{display:grid;grid-template-columns:4rem minmax(0,1fr);gap:1rem;padding-block:1.1rem;border-bottom:1px solid var(--line)}
+.pubs li:first-child{border-top:1px solid var(--line)}
+.year{font-family:var(--f-mono);font-size:.85rem;color:var(--muted);font-variant-numeric:tabular-nums;padding-top:.2rem}
+.pubs div{display:flex;flex-direction:column;gap:.3rem}
+.ptitle{font-family:var(--f-display);font-size:1.12rem;font-weight:500;line-height:1.35}
+.authors{font-size:.92rem}
+.authors b{font-weight:600}
+.venue{font-size:.9rem;font-style:italic;color:var(--muted)}
+.plinks{font-family:var(--f-mono);font-size:.8rem;overflow-wrap:anywhere}
+.cv{display:grid;grid-template-columns:4rem minmax(0,1fr);gap:1rem 1rem;margin:0 0 1.25rem}
+.cv dt{font-family:var(--f-mono);font-size:.85rem;color:var(--muted);padding-top:.15rem}
+.cv dd{margin:0}
+.muted{color:var(--muted);font-size:.9rem}
+#contact p+p{margin-top:.5rem;color:var(--muted)}
+.todo{color:var(--sensor)}
+footer{margin-top:4rem;padding-top:1rem;border-top:1px solid var(--line);font-size:.82rem;color:var(--muted)}
+</style>
+<style>body{margin:0}img{max-width:100%}</style></head><body>
+<main class="wrap">
+  <header class="top">
+    <a class="mark" href="#about">S. B. Massala</a>
+    <nav aria-label="Sections">
+      <a href="#publications">Publications</a>
+      <a href="#blog">Blog</a>
+      <a href="#cv">CV</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>
+
+  <section id="about" class="hero">
+    <div class="hero-text">
+      <p class="eyebrow">Machine Learning · Partial Differential Equations · Optimal Recovery · Reduced Order Modeling · Data Assimilation</p>
+      <h1>Stiven Briand Massala</h1>
+      <p class="bio">I develop algorithms and theory for solving partial differential equations, combining machine learning, reduced order modeling, optimal recovery and variational data assimilation. I completed my PhD jointly at École Normale Supérieure Paris-Saclay and Nanyang Technological University, Singapore.</p>
+      <p class="bio">Before my PhD, I earned a Diplôme d’Ingénieur in mechanical engineering from Arts et Métiers ParisTech and a Master of Research in applied mathematics from CentraleSupélec, Université Paris-Saclay, focused on the modelling and simulation of partial differential equations.</p>
+      <ul class="links">
+        <li><a href="https://scholar.google.com/citations?user=-Vf15KIAAAAJ">Google Scholar</a></li>
+        <li><a href="https://hal.science/search/index?q=authIdHal_s:stiven-briand-god-massala-moussounda">HAL</a></li>
+      </ul>
+    </div>
+  </section>
+
+  <section id="publications">
+    <h2>Publications</h2>
+    <h3 class="pgroup">Journal articles</h3>
+    <ol class="pubs" reversed>
+      <li>
+        <span class="year">2026</span>
+        <div>
+          <p class="ptitle">Orthogonally constrained operator learning for bias-aware digital twins: a PBDW-DeepONet framework</p>
+          <p class="authors"><b>S. B. G. Massala Moussounda</b>, L. Chamoin, M. Pica Ciamarra</p>
+          <p class="venue"><i>Journal of Scientific Computing</i>, Springer Nature, 109, 84 (2026).</p>
+          <p class="plinks"><a href="https://doi.org/10.1007/s10915-026-03482-7">Springer Nature link</a></p>
+        </div>
+      </li>
+      <li>
+        <span class="year">2026</span>
+        <div>
+          <p class="ptitle">Joint embedding predictive architectures for anticipating model bias in real time</p>
+          <p class="venue">Under review.</p>
+        </div>
+      </li>
+    </ol>
+    <h3 class="pgroup">PhD thesis</h3>
+    <ol class="pubs" reversed>
+      <li>
+        <span class="year">2026</span>
+        <div>
+          <p class="ptitle">Online construction of reliable hybrid-AI models from deviation data and physics-based information</p>
+          <p class="authors"><b>S. B. G. Massala Moussounda</b></p>
+          <p class="venue">PhD in mechanical engineering, Université Paris-Saclay, in cotutelle with Nanyang Technological University (Singapore), 2026. Laboratoire de Mécanique Paris-Saclay, ENS Paris-Saclay. NNT 2026UPAST055.</p>
+          <p class="venue">Thesis defended on 05/28/2026, before the jury composed of G. Puel (President), E. Cueto and G. Rozza (Reviewers), T. Taddei and L. Y. Chew (Examiners), L. Chamoin and M. Pica Ciamarra (Supervisors).</p>
+          <p class="plinks"><a href="https://theses.hal.science/tel-05737419">HAL link</a></p>
+        </div>
+      </li>
+    </ol>
+    <h3 class="pgroup">Preprints</h3>
+    <ol class="pubs" reversed>
+      <li>
+        <span class="year">2025</span>
+        <div>
+          <p class="ptitle">Hybrid twinning using PBDW and DeepONet for the effective state estimation and prediction on partially known systems</p>
+          <p class="authors"><b>S. B. G. Massala Moussounda</b>, L. Chamoin, M. Pica Ciamarra</p>
+          <p class="venue">arXiv preprint, 2025.</p>
+          <p class="plinks"><a href="https://arxiv.org/abs/2512.11834">arXiv link</a></p>
+        </div>
+      </li>
+    </ol>
+    <h3 class="pgroup">Conference papers</h3>
+    <ol class="pubs" reversed>
+      <li>
+        <span class="year">2025</span>
+        <div>
+          <p class="ptitle">From simulations to surveys: domain adaptation for galaxy observations</p>
+          <p class="venue">NeurIPS 2025 Workshop on Machine Learning and the Physical Sciences (ML4PS), San Diego, USA.</p>
+          <p class="plinks"><a href="https://arxiv.org/abs/2511.18590">arXiv link</a></p>
+        </div>
+      </li>
+    </ol>
+    <h3 class="pgroup">Conference talks</h3>
+    <ol class="pubs" reversed>
+      <li>
+        <span class="year">2025</span>
+        <div>
+          <p class="ptitle">Real-time bias correction using machine learning and physics</p>
+          <p class="venue">MORTech 2025, VII International Workshop on Model Order Reduction Techniques, Zaragoza, Spain.</p>
+        </div>
+      </li>
+      <li>
+        <span class="year">2025</span>
+        <div>
+          <p class="ptitle">State, parameter and bias recovery: a bias-aware Kalman filter (BKF)</p>
+          <p class="venue">ADMOS 2025, XII International Conference on Adaptive Modeling and Simulation, Barcelona, Spain.</p>
+        </div>
+      </li>
+      <li>
+        <span class="year">2025</span>
+        <div>
+          <p class="ptitle">Implementation of hybrid AI models for complex dynamical systems of the smart city</p>
+          <p class="authors">L. Chamoin, Q. Li, <b>S. B. G. Massala Moussounda</b>, M. Pica Ciamarra, S. Wu</p>
+          <p class="venue">IACM DTE 2025 &amp; ECCOMAS AICOMAS 2025, Paris, France.</p>
+          <p class="plinks"><a href="https://hal.science/hal-04992859">HAL link</a></p>
+        </div>
+      </li>
+      <li>
+        <span class="year">2024</span>
+        <div>
+          <p class="ptitle">Hybrid physics-AI for efficient bias-aware state estimation</p>
+          <p class="venue">IAIFI Workshop, MIT, Boston, USA.</p>
+        </div>
+      </li>
+      <li>
+        <span class="year">2024</span>
+        <div>
+          <p class="ptitle">Hybrid physics-AI for efficient bias-aware state estimation</p>
+          <p class="venue">SINFRA Workshop, NUS–A*STAR, Singapore.</p>
+        </div>
+      </li>
+      <li>
+        <span class="year">2024</span>
+        <div>
+          <p class="ptitle">Coupling variational data assimilation and operator learning for effective state estimation on complex systems</p>
+          <p class="venue">16th World Congress on Computational Mechanics (WCCM) &amp; 4th PANACM, Vancouver, Canada.</p>
+        </div>
+      </li>
+      <li>
+        <span class="year">2023</span>
+        <div>
+          <p class="ptitle">Hybrid twins coupling PBDW and machine learning for effective state estimation on complex systems</p>
+          <p class="authors"><b>S. B. G. Massala Moussounda</b>, L. Chamoin, M. Pica Ciamarra</p>
+          <p class="venue">2nd Conference on Mechanics, Machine Learning and Digital Engineering for Computational Science, Engineering and Technology (MMLDE-CSET), International Association for Computational Mechanics (IACM), El Paso, Texas, USA.</p>
+          <p class="plinks"><a href="https://hal.science/hal-04425509">HAL link</a></p>
+        </div>
+      </li>
+    </ol>
+  </section>
+
+  <section id="blog">
+    <h2>Blog</h2>
+    <p class="empty" style="margin-top:0">No posts yet.</p>
+  </section>
+
+  <section id="cv">
+    <h2>CV</h2>
+    <p><a href="cv.pdf">Full CV (PDF)</a></p>
+  </section>
+
+  <section id="contact">
+    <h2>Contact</h2>
+    <p>Email: <a href="mailto:stiven.massala_moussounda@ens-paris-saclay.fr">stiven.massala_moussounda@ens-paris-saclay.fr</a></p>
+    <p>Laboratoire de Mécanique Paris-Saclay, 4 avenue des Sciences, 91190 Gif-sur-Yvette, France</p>
+  </section>
+
+  <footer>© 2026 Stiven Briand Massala</footer>
+</main>
+</body></html>
